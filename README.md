@@ -45,7 +45,7 @@ Claude will recognize the skill applies, ask a few batched questions about your 
 
 ## License
 
-Released under **CC0 1.0 Universal**. This skill is dedicated to the public domain, use it, modify it, redistribute it, or build on it however you like, no permission or attribution required.
+Released under the **MIT License**. Use it, modify it, redistribute it, or build on it however you like, just keep the original copyright and license notice included. See [LICENSE](LICENSE) for the full text.
 
 ## Disclaimer
 
